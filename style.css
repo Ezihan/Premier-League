@@ -1,0 +1,86 @@
+* {
+	font-family: 'Questrial', sans-serif;
+}
+.navbar {
+	background-color: transparent;
+	font-family: 'Questrial', sans-serif;
+	font-size: 18px;
+	position: fixed;
+}
+.navbar .navbar-brand {
+	margin-right: 1350px;
+}
+#navbarNav .navbar-nav .nav-item a {
+	color: white;
+}
+#navbarNav .navbar-nav .nav-item a:hover {
+	color: silver;
+}
+.homePage {
+	background-image: url("1.jpg");
+	height: 1000px;
+	width: 100%;
+}
+#pl {
+	color: white;
+	padding-top: 37%;
+	font-size: 80px;
+}
+#startChange {
+	background: linear-gradient(#8528ED,#4C4B4C);
+	height: auto; 
+	width: 100%;
+	margin-top: -3%;
+}
+#subheading {
+	font-size: 30px;
+	padding: 3% 0;
+	color: white;
+}
+.stat1,.stat2,.stat3 {
+	margin-bottom: 3%;
+}
+.info-card1,.info-card2,.info-card3 {
+	padding: 5% 0;
+	background-color: white;
+	margin-bottom: 15%;
+	display: none;
+}
+.card-h4 {
+	font-size: 29px;
+	font-weight: 500;
+}
+.card-h6 {
+	font-size: 21px;
+	font-weight: 500;
+}
+.card-p {
+	font-size: 17px;
+	color: grey;
+}
+.foot {
+	margin-top: 10%;
+	padding-bottom: 3%;
+}
+.foot-links {
+	display: block;
+	padding-bottom: 23px;
+}
+.foot a {
+	color: white;
+	display: block;
+	font-size: 17px;
+}
+.foot a:hover {
+	color: silver;
+	text-decoration: none;
+}
+.icons {
+	margin-top: 3%;
+	float: left;
+	margin-right: 20px;
+}
+.copyright {
+	color: white;
+	margin-top: 3%;
+}
